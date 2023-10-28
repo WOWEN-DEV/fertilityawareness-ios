@@ -35,10 +35,11 @@
 4. [Roadmap](#roadmap)
    - [Mobile App Version (iOS)](#mobile-app-version-ios)
 5. [Developer Documentation: Technical Architecture and Stack Overview](#developer-documentation-technical-architecture-and-stack-overview)
-6. [Contributing](#contributing)
-7. [Feedback and Support](#feedback-and-support)
-8. [Connect with Us](#connect-with-us)
-9. [License](#license)
+   - [Analytics](#analytics)
+7. [Contributing](#contributing)
+8. [Feedback and Support](#feedback-and-support)
+9. [Connect with Us](#connect-with-us)
+10. [License](#license)
 
 <br>
 
@@ -74,6 +75,10 @@ This changelog provide a high-level overview of the changes made in each version
 
 # Developer Documentation: Technical Architecture and Stack Overview
 TBD.
+
+## Analytics
+
+-
 
 <br>
 
