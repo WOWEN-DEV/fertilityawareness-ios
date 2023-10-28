@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## v1.0.0-alpha - YYYY-MM-DD
+## v1.0.0-alpha – YYYY-MM-DD
 
 ### Added
 - Initial Access: This alpha release serves as the first public introduction.
