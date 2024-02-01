@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h1 align="center">Fertility Awareness Mobile App (iOS)</h1>
+<h1 align="center">Fertility Awareness – Mobile App (iOS)</h1>
 <h3 align="center">Fertility Awareness Project Repos:</h3>
 <p align="center">
 <p align="center">
